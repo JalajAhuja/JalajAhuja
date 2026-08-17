@@ -29,8 +29,6 @@ My professional work spans **credit-risk modelling and monitoring, time-series f
 
 ### 🚀 Featured Work
 
-🔹 **GenAI-based Anomaly Classification & Synthesis**
-Built an NLP + LLM system for multilingual enterprise risk anomalies, combining embeddings, clustering and MMR to improve classification and interpretability.
 
 🔹 **AI PII Protection — Privy**
 Built a privacy layer for LLM applications that detects and masks sensitive information before API calls and restores the results for downstream users.
